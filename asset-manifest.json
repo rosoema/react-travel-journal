@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-travel-journal/static/css/main.37b9e1ac.chunk.css",
+    "main.js": "/react-travel-journal/static/js/main.06067dc6.chunk.js",
+    "main.js.map": "/react-travel-journal/static/js/main.06067dc6.chunk.js.map",
+    "runtime-main.js": "/react-travel-journal/static/js/runtime-main.2c518aa9.js",
+    "runtime-main.js.map": "/react-travel-journal/static/js/runtime-main.2c518aa9.js.map",
+    "static/js/2.8b2cdc07.chunk.js": "/react-travel-journal/static/js/2.8b2cdc07.chunk.js",
+    "static/js/2.8b2cdc07.chunk.js.map": "/react-travel-journal/static/js/2.8b2cdc07.chunk.js.map",
+    "index.html": "/react-travel-journal/index.html",
+    "static/css/main.37b9e1ac.chunk.css.map": "/react-travel-journal/static/css/main.37b9e1ac.chunk.css.map",
+    "static/js/2.8b2cdc07.chunk.js.LICENSE.txt": "/react-travel-journal/static/js/2.8b2cdc07.chunk.js.LICENSE.txt",
+    "static/media/bruges-pic.b999bbad.jpg": "/react-travel-journal/static/media/bruges-pic.b999bbad.jpg",
+    "static/media/london-pic.e3841928.jpg": "/react-travel-journal/static/media/london-pic.e3841928.jpg",
+    "static/media/paris-pic.3ffc72b7.jpg": "/react-travel-journal/static/media/paris-pic.3ffc72b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c518aa9.js",
+    "static/js/2.8b2cdc07.chunk.js",
+    "static/css/main.37b9e1ac.chunk.css",
+    "static/js/main.06067dc6.chunk.js"
+  ]
+}
