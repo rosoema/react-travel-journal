@@ -2,7 +2,11 @@
 
 Personal travel journal website built using React and enhanced through vibrant and eye-catching design.
 
-Tools used: HTML, CSS, React.
+**Tools used:**
+
+- [x] HTML
+- [x] CSS
+- [x] React
 
 [Check it out](https://rosoema.github.io/react-travel-journal/)
 
